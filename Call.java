@@ -12,7 +12,7 @@ import com.j256.ormlite.table.DatabaseTable;
 public class Call {
 
     public Call() {
-	// THIS IS BUG FIX FOR AS13
+	// THIS IS BUG FIX FOR AS01
 	// THIS IS ALSO BUG FIX FOR AS14
 
     }
