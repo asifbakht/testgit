@@ -12,7 +12,9 @@ public class CustomResponse {
     private Object data;
     private Boolean success;
     private Integer code;
-	// THIS IS BUG FIX FOR AS04 ASIF BAKHT
+
+	// THIS IS BUG FIX FOR AS02 KAMAL MEMON
+
 
     @JsonProperty(Fields.MESSAGE)
     public String getMessage() {
